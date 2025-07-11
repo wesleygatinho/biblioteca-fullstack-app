@@ -1,0 +1,7 @@
+Attaching to backend-1
+backend-1  | A inicializar a base de dados (se necessário)...
+backend-1  | Tabelas 'author' e 'book' criadas com sucesso (se não existiam).
+backend-1  | A tabela de livros já contém dados. Nenhum dado novo foi inserido.
+backend-1  | Base de dados inicializada com sucesso!
+backend-1  | Inicialização da base de dados concluída.
+backend-1  | A iniciar a aplicação Flask...
