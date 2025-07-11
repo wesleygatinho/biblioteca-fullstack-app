@@ -63,8 +63,7 @@ Siga estes passos para configurar e executar o projeto localmente.
 
 **1. Clonar o Repositório**
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DA_PASTA_DO_PROJETO>
+git clone https://github.com/wesleygatinho/biblioteca-fullstack-app.git
 ```
 
 **2. Construir a Imagem Docker do Backend**
