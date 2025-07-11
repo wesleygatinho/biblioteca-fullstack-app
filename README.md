@@ -46,7 +46,6 @@ Aplicação web Full-Stack desenvolvida como parte do teste para Desenvolvedor J
 │   └── books.json            # Dados iniciais para a base de dados
 └── frontend/
     ├── src/                  # Código fonte do Next.js
-    ├── Dockerfile            # (Opcional, mas recomendado) Define a imagem do frontend
     ├── package.json          # Dependências e scripts do Node.js
     └── ...
 ```
@@ -100,9 +99,9 @@ Com o backend "buildado" e as dependências do frontend instaladas, podemos inic
      npm run dev
      ```
 
-**5. Aceder à Aplicação**
+**5. Acessar à Aplicação**
 
-- **Frontend:** Abra o seu navegador e aceda a [http://localhost:3000](http://localhost:3000)
+- **Frontend:** Abra o seu navegador e acesse a [http://localhost:3000](http://localhost:3000)
 - **Backend API:** A API está disponível em [http://localhost:5000](http://localhost:5000)
 
 ## <caption> API Endpoints
